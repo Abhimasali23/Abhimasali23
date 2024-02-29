@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimasali23" alt="abhimasali23" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Backend development**
+- 🌱 I’m currently learning **Backend Development, CLoud Computing**
 
 - 📫 How to reach me **abhimasali23@gmail.com**
 
